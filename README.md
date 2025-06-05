@@ -49,9 +49,13 @@
 
 
 
-## Usage
+## About the Project
 
 ![Calculator](src/assets/CalculatorScreenshot.png)
+
+This project is meant to improve my programming skills, especially as a simple project. I coded this with no outside help - no ChatGPT, no YouTube videos, no Stack Overflow code pasted here.
+
+The only resources I used were the documentation of the tkinter, ttk and pillow libraries.
 
 
 
