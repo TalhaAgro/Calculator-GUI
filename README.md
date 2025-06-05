@@ -51,7 +51,8 @@
 
 ## Usage
 
-![Calculator][https://github.com/TalhaAgro/Calculator-GUI/raw/master/src/assets/CalculatorScreenshot.png]
+![Calculator](src/assets/CalculatorScreenshot.png)
+
 
 
 
