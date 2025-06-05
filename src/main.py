@@ -114,7 +114,7 @@ class Page(ttk.Frame):
         enter_button_style.map("enter_btn.TButton", background=[("active", "#4ACEE9")])
 
         pil_img = (
-            Image.open("delete-315.png").resize((24, 24), Image.LANCZOS).convert("RGBA")
+            Image.open("src/assets/delete-315.png").resize((24, 24), Image.LANCZOS).convert("RGBA")
         )
         datas = pil_img.getdata()
         newData = []
