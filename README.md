@@ -138,7 +138,7 @@ Project Link: [https://github.com/TalhaAgro/Calculator-GUI](https://github.com/T
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Raahim Imran](https://www.merriam-webster.com/thesaurus/dummy)
+* Raahim Imran
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
